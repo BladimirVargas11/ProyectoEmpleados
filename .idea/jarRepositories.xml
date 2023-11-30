@@ -7,6 +7,11 @@
       <option name="url" value="https://repo.maven.apache.org/maven2" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="maven-bancolombia" />
+      <option name="name" value="maven-bancolombia" />
+      <option name="url" value="https://artifactory.apps.bancolombia.com/maven-bancolombia" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="portx-repository-snapshots" />
       <option name="name" value="portx-repository-snapshots" />
       <option name="url" value="https://portx.jfrog.io/portx/portx-snapshots" />
@@ -35,6 +40,11 @@
       <option name="id" value="jboss.community" />
       <option name="name" value="JBoss Community repository" />
       <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-central" />
+      <option name="name" value="maven-central" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
     </remote-repository>
   </component>
 </project>
